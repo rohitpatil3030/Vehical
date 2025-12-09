@@ -1,4 +1,4 @@
-# Car On Rental App - Technical Documentation
+# Car24 - Technical Documentation
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
